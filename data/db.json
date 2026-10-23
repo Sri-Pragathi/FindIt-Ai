@@ -63,7 +63,7 @@
       "department": "Architecture & Design",
       "verifiedEmail": true,
       "passwordHash": "5d99f0d524e316ed3314652920994b99856c9d73424b0f104a56af35f31a956f",
-      "id": "usr_1792775615336_177a"
+      "id": "usr_1792778465134_nr5z"
     }
   ],
   "lostReports": [
@@ -73,15 +73,15 @@
       "description": "Gold watch with dark mesh strap left in Architecture Drafting Studio",
       "dateLost": "2026-10-23",
       "location": "Architecture Studio Hall",
-      "reportedBy": "usr_1792775615336_177a",
+      "reportedBy": "usr_1792778465134_nr5z",
       "reporterName": "Maya Patel",
       "reporterEmail": "maya.patel@campus.edu",
       "reporterRole": "student",
       "secretClues": "Serial #CZ-8921 on caseback",
-      "id": "LOST-4724",
+      "id": "LOST-1562",
       "status": "open",
-      "createdAt": "2026-10-23T17:13:35.336Z",
-      "updatedAt": "2026-10-23T17:13:35.336Z"
+      "createdAt": "2026-10-23T18:01:05.134Z",
+      "updatedAt": "2026-10-23T18:01:05.134Z"
     },
     {
       "title": "Lost Blue Backpack",
@@ -93,10 +93,10 @@
       "reporterName": "Alex Rivera",
       "reporterEmail": "alex.rivera@campus.edu",
       "reporterRole": "student",
-      "id": "LOST-2831",
+      "id": "LOST-5392",
       "status": "open",
-      "createdAt": "2026-10-23T17:13:35.334Z",
-      "updatedAt": "2026-10-23T17:13:35.334Z"
+      "createdAt": "2026-10-23T18:01:05.132Z",
+      "updatedAt": "2026-10-23T18:01:05.132Z"
     },
     {
       "id": "LOST-1001",
@@ -117,8 +117,8 @@
       "reporterName": "Alex Rivera",
       "reporterEmail": "alex.rivera@campus.edu",
       "reporterRole": "student",
-      "createdAt": "2026-10-22T05:13:35.124Z",
-      "updatedAt": "2026-10-22T05:13:35.124Z"
+      "createdAt": "2026-10-22T06:01:04.902Z",
+      "updatedAt": "2026-10-22T06:01:04.902Z"
     },
     {
       "id": "LOST-1002",
@@ -139,8 +139,8 @@
       "reporterName": "Prof. Robert Lang",
       "reporterEmail": "robert.lang@campus.edu",
       "reporterRole": "faculty",
-      "createdAt": "2026-10-21T15:13:35.124Z",
-      "updatedAt": "2026-10-21T15:13:35.124Z"
+      "createdAt": "2026-10-21T16:01:04.902Z",
+      "updatedAt": "2026-10-21T16:01:04.902Z"
     },
     {
       "id": "LOST-1003",
@@ -161,8 +161,8 @@
       "reporterName": "Alex Rivera",
       "reporterEmail": "alex.rivera@campus.edu",
       "reporterRole": "student",
-      "createdAt": "2026-10-23T05:13:35.124Z",
-      "updatedAt": "2026-10-23T05:13:35.124Z"
+      "createdAt": "2026-10-23T06:01:04.902Z",
+      "updatedAt": "2026-10-23T06:01:04.902Z"
     }
   ],
   "foundReports": [
@@ -179,10 +179,10 @@
       "reporterEmail": "sarah.chen@campus.edu",
       "reporterRole": "student",
       "custodyStatus": "with_finder",
-      "id": "FND-3846",
+      "id": "FND-2524",
       "status": "available",
-      "createdAt": "2026-10-23T17:13:35.338Z",
-      "updatedAt": "2026-10-23T17:13:35.338Z"
+      "createdAt": "2026-10-23T18:01:05.135Z",
+      "updatedAt": "2026-10-23T18:01:05.135Z"
     },
     {
       "title": "Red Stainless Water Bottle",
@@ -195,10 +195,10 @@
       "reporterEmail": "sarah.chen@campus.edu",
       "reporterRole": "student",
       "custodyStatus": "with_finder",
-      "id": "FND-2898",
+      "id": "FND-9649",
       "status": "available",
-      "createdAt": "2026-10-23T17:13:35.337Z",
-      "updatedAt": "2026-10-23T17:13:35.337Z"
+      "createdAt": "2026-10-23T18:01:05.135Z",
+      "updatedAt": "2026-10-23T18:01:05.135Z"
     },
     {
       "title": "Silver Ring with Turquoise Stone",
@@ -211,10 +211,10 @@
       "reporterEmail": "sarah.chen@campus.edu",
       "reporterRole": "student",
       "custodyStatus": "with_finder",
-      "id": "FND-8293",
+      "id": "FND-7971",
       "status": "available",
-      "createdAt": "2026-10-23T17:13:35.335Z",
-      "updatedAt": "2026-10-23T17:13:35.335Z"
+      "createdAt": "2026-10-23T18:01:05.133Z",
+      "updatedAt": "2026-10-23T18:01:05.133Z"
     },
     {
       "id": "FND-2001",
@@ -237,8 +237,8 @@
       "reporterName": "Sarah Chen",
       "reporterEmail": "sarah.chen@campus.edu",
       "reporterRole": "student",
-      "createdAt": "2026-10-22T09:13:35.124Z",
-      "updatedAt": "2026-10-22T09:13:35.124Z"
+      "createdAt": "2026-10-22T10:01:04.902Z",
+      "updatedAt": "2026-10-22T10:01:04.902Z"
     },
     {
       "id": "FND-2002",
@@ -261,8 +261,8 @@
       "reporterName": "Officer Marcus Vance",
       "reporterEmail": "security@campus.edu",
       "reporterRole": "security",
-      "createdAt": "2026-10-23T09:13:35.124Z",
-      "updatedAt": "2026-10-23T09:13:35.124Z"
+      "createdAt": "2026-10-23T10:01:04.902Z",
+      "updatedAt": "2026-10-23T10:01:04.902Z"
     },
     {
       "id": "FND-2003",
@@ -284,15 +284,15 @@
       "reporterName": "Sarah Chen",
       "reporterEmail": "sarah.chen@campus.edu",
       "reporterRole": "student",
-      "createdAt": "2026-10-23T13:13:35.124Z",
-      "updatedAt": "2026-10-23T13:13:35.124Z"
+      "createdAt": "2026-10-23T14:01:04.902Z",
+      "updatedAt": "2026-10-23T14:01:04.902Z"
     }
   ],
   "matches": [
     {
-      "id": "MTC-3536",
-      "lostReportId": "LOST-4724",
-      "foundReportId": "FND-3846",
+      "id": "MTC-3568",
+      "lostReportId": "LOST-1562",
+      "foundReportId": "FND-2524",
       "score": 79,
       "confidenceLevel": "high",
       "breakdown": {
@@ -312,7 +312,7 @@
         "aiAnalysisSummary": "Calculated semantic match score of 79% (high confidence) based on category compatibility, attribute alignment, and location proximity."
       },
       "status": "suggested",
-      "createdAt": "2026-10-23T17:13:35.338Z"
+      "createdAt": "2026-10-23T18:01:05.135Z"
     },
     {
       "id": "MTC-9001",
@@ -340,12 +340,12 @@
         "aiAnalysisSummary": "High-confidence match (94%). Both reports reference a Space Gray 14-inch Apple MacBook Pro located at the Main Campus Library 2nd floor quiet section on October 21. Distinguishing stickers and case details provide compelling correlation."
       },
       "status": "in_claim",
-      "createdAt": "2026-10-22T11:13:35.124Z"
+      "createdAt": "2026-10-22T12:01:04.902Z"
     }
   ],
   "claims": [
     {
-      "id": "CLM-5984",
+      "id": "CLM-6576",
       "lostReportId": "LOST-1001",
       "foundReportId": "FND-2001",
       "matchId": "MTC-9001",
@@ -357,89 +357,89 @@
       "status": "completed",
       "answers": [
         {
-          "id": "ans_1792775615329",
+          "id": "ans_1792778465127",
           "answer": "It has a small GitHub Octocat sticker and a holographic Rust crab near the left hinge.",
           "evidenceNotes": "Can confirm serial on receipt",
-          "submittedAt": "2026-10-23T17:13:35.329Z",
+          "submittedAt": "2026-10-23T18:01:05.127Z",
           "status": "accepted"
         }
       ],
       "physicalConfirmation": {
         "ownerReceived": true,
         "finderHandedOver": false,
-        "ownerReceivedAt": "2026-10-23T17:13:35.332Z"
+        "ownerReceivedAt": "2026-10-23T18:01:05.129Z"
       },
       "timeline": [
         {
-          "id": "tl_1792775615328_1",
-          "timestamp": "2026-10-23T17:13:35.328Z",
+          "id": "tl_1792778465126_1",
+          "timestamp": "2026-10-23T18:01:05.126Z",
           "actorId": "usr_student_alex",
           "actorName": "Alex Rivera",
           "action": "Claim Initiated",
           "note": "Lost item owner confirmed \"This might be mine\" for found item Apple MacBook Pro Laptop (Space Gray)."
         },
         {
-          "id": "tl_1792775615328",
-          "timestamp": "2026-10-23T17:13:35.328Z",
+          "id": "tl_1792778465127",
+          "timestamp": "2026-10-23T18:01:05.127Z",
           "actorId": "usr_student_sarah",
           "actorName": "Sarah Chen",
           "action": "Verification Question Asked",
           "note": "Finder asked: \"Can you describe the sticker or mark on the corner of the laptop?\""
         },
         {
-          "id": "tl_1792775615329",
-          "timestamp": "2026-10-23T17:13:35.329Z",
+          "id": "tl_1792778465127",
+          "timestamp": "2026-10-23T18:01:05.127Z",
           "actorId": "usr_student_alex",
           "actorName": "Alex Rivera",
           "action": "Verification Answer Submitted",
           "note": "Claimant provided distinguishing detail response."
         },
         {
-          "id": "tl_1792775615330",
-          "timestamp": "2026-10-23T17:13:35.330Z",
+          "id": "tl_1792778465128",
+          "timestamp": "2026-10-23T18:01:05.128Z",
           "actorId": "usr_student_sarah",
           "actorName": "Sarah Chen",
           "action": "Verification Accepted",
           "note": "Finder confirmed the answer matches the item details! Ready to arrange handover."
         },
         {
-          "id": "tl_1792775615331",
-          "timestamp": "2026-10-23T17:13:35.331Z",
+          "id": "tl_1792778465128",
+          "timestamp": "2026-10-23T18:01:05.128Z",
           "actorId": "usr_student_sarah",
           "actorName": "Sarah Chen",
           "action": "Handover Proposed",
           "note": "Meeting proposed at Main Campus Library Information & Circulation Desk on 2026-10-24 at 15:30."
         },
         {
-          "id": "tl_1792775615331",
-          "timestamp": "2026-10-23T17:13:35.331Z",
+          "id": "tl_1792778465129",
+          "timestamp": "2026-10-23T18:01:05.129Z",
           "actorId": "usr_student_alex",
           "actorName": "Alex Rivera",
           "action": "Handover Arrangement Confirmed",
           "note": "Both parties agreed to meeting time and campus location."
         },
         {
-          "id": "tl_1792775615332",
-          "timestamp": "2026-10-23T17:13:35.332Z",
+          "id": "tl_1792778465129",
+          "timestamp": "2026-10-23T18:01:05.129Z",
           "actorId": "usr_student_alex",
           "actorName": "Alex Rivera",
           "action": "Item Received by Owner",
           "note": "Lost item owner verified physical recovery of their belonging."
         },
         {
-          "id": "tl_1792775615332",
-          "timestamp": "2026-10-23T17:13:35.332Z",
+          "id": "tl_1792778465131",
+          "timestamp": "2026-10-23T18:01:05.131Z",
           "actorId": "usr_student_alex",
           "actorName": "System / Owner",
           "action": "Query Successfully Closed",
           "note": "Belonging returned safely. Item removed from active search."
         }
       ],
-      "createdAt": "2026-10-23T17:13:35.328Z",
-      "updatedAt": "2026-10-23T17:13:35.332Z",
+      "createdAt": "2026-10-23T18:01:05.126Z",
+      "updatedAt": "2026-10-23T18:01:05.131Z",
       "verificationQuestion": {
         "question": "Can you describe the sticker or mark on the corner of the laptop?",
-        "askedAt": "2026-10-23T17:13:35.328Z",
+        "askedAt": "2026-10-23T18:01:05.127Z",
         "clarificationCount": 1
       },
       "handoverProposal": {
@@ -456,95 +456,95 @@
   ],
   "notifications": [
     {
-      "recipientId": "usr_1792775615336_177a",
+      "recipientId": "usr_1792778465134_nr5z",
       "title": "Possible Match Found (79%)",
       "message": "A recently found item \"Gold Citizen Wristwatch (Mesh Strap)\" may match your reported lost \"Vintage Gold Citizen Watch\". Review to verify.",
       "type": "match_found",
-      "reportId": "LOST-4724",
-      "matchId": "MTC-3536",
-      "id": "notif_1792775615338_pcfb",
+      "reportId": "LOST-1562",
+      "matchId": "MTC-3568",
+      "id": "notif_1792778465135_6cky",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.338Z"
+      "createdAt": "2026-10-23T18:01:05.135Z"
     },
     {
       "recipientId": "usr_student_sarah",
       "title": "Item Successfully Returned!",
       "message": "Item successfully returned! Thank you for helping reconnect our campus community.",
       "type": "query_closed",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615333_ep97",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465131_s2oi",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.333Z"
+      "createdAt": "2026-10-23T18:01:05.131Z"
     },
     {
       "recipientId": "usr_student_alex",
       "title": "Item Successfully Recovered!",
       "message": "Item successfully returned! Thank you for helping reconnect our campus community.",
       "type": "query_closed",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615332_uy5a",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465131_p5lj",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.332Z"
+      "createdAt": "2026-10-23T18:01:05.131Z"
     },
     {
       "recipientId": "usr_student_sarah",
       "title": "Item Receipt Confirmed!",
       "message": "Alex Rivera confirmed they received their belonging. Thank you for your kindness!",
       "type": "item_received",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615332_93pf",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465129_9d2v",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.332Z"
+      "createdAt": "2026-10-23T18:01:05.129Z"
     },
     {
       "recipientId": "usr_student_sarah",
       "title": "Handover Confirmed!",
       "message": "Alex Rivera confirmed the scheduled handover arrangement at Main Campus Library Information & Circulation Desk.",
       "type": "handover_confirmed",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615331_bhz6",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465129_5cdo",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.331Z"
+      "createdAt": "2026-10-23T18:01:05.129Z"
     },
     {
       "recipientId": "usr_student_alex",
       "title": "Handover Meeting Proposed",
       "message": "Sarah Chen proposed meeting at Main Campus Library Information & Circulation Desk on 2026-10-24 at 15:30. Please confirm or counter-propose.",
       "type": "handover_proposed",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615331_p5z8",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465128_7anr",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.331Z"
+      "createdAt": "2026-10-23T18:01:05.128Z"
     },
     {
       "recipientId": "usr_student_alex",
       "title": "Claim Verified Successfully!",
       "message": "The finder accepted your verification answer! A handover can now be coordinated.",
       "type": "verification_accepted",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615330_qeeu",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465128_yu3f",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.330Z"
+      "createdAt": "2026-10-23T18:01:05.128Z"
     },
     {
       "recipientId": "usr_student_sarah",
       "title": "Verification Answer Submitted",
       "message": "Alex Rivera answered your verification question. Review their response now.",
       "type": "verification_answer",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615329_f9vq",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465127_4q8b",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.329Z"
+      "createdAt": "2026-10-23T18:01:05.127Z"
     },
     {
       "recipientId": "usr_student_alex",
       "title": "Verification Question Received",
       "message": "The finder needs one more detail to verify your claim: \"Can you describe the sticker or mark on the corner of the laptop?...\"",
       "type": "verification_question",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615328_oqiz",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465127_04gp",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.328Z"
+      "createdAt": "2026-10-23T18:01:05.127Z"
     },
     {
       "recipientId": "usr_student_sarah",
@@ -552,10 +552,10 @@
       "message": "Alex Rivera reviewed your found item \"Apple MacBook Pro Laptop (Space Gray)\" and believes it belongs to them. Please ask a verification question to confirm.",
       "type": "claim_initiated",
       "reportId": "FND-2001",
-      "claimId": "CLM-5984",
-      "id": "notif_1792775615328_w49u",
+      "claimId": "CLM-6576",
+      "id": "notif_1792778465126_du0u",
       "isRead": false,
-      "createdAt": "2026-10-23T17:13:35.328Z"
+      "createdAt": "2026-10-23T18:01:05.126Z"
     },
     {
       "id": "notif_1",
@@ -566,7 +566,7 @@
       "reportId": "LOST-1001",
       "matchId": "MTC-9001",
       "isRead": false,
-      "createdAt": "2026-10-22T11:13:35.124Z"
+      "createdAt": "2026-10-22T12:01:04.902Z"
     },
     {
       "id": "notif_2",
@@ -576,7 +576,7 @@
       "type": "match_found",
       "reportId": "FND-2001",
       "isRead": true,
-      "createdAt": "2026-10-22T09:13:35.125Z"
+      "createdAt": "2026-10-22T10:01:04.902Z"
     }
   ],
   "locations": [
