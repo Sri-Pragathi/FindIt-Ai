@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-heading: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+  
+  body {
+    font-family: var(--font-body);
+    background-color: #F8F6F0;
+    color: #242923;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Custom campus design color utilities */
+.bg-campus-ivory { background-color: #F8F6F0; }
+.bg-campus-forest { background-color: #183C32; }
+.bg-campus-forest-dark { background-color: #0f2620; }
+.bg-campus-forest-light { background-color: #235547; }
+.bg-campus-sage { background-color: #A8B7A0; }
+.bg-campus-amber { background-color: #D6A354; }
+.bg-campus-charcoal { background-color: #242923; }
+
+.text-campus-ivory { color: #F8F6F0; }
+.text-campus-forest { color: #183C32; }
+.text-campus-sage { color: #A8B7A0; }
+.text-campus-amber { color: #D6A354; }
+.text-campus-charcoal { color: #242923; }
+
+.border-campus-forest { border-color: #183C32; }
+.border-campus-sage { border-color: #A8B7A0; }
+.border-campus-amber { border-color: #D6A354; }
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F8F6F0;
+}
+::-webkit-scrollbar-thumb {
+  background: #A8B7A0;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #183C32;
+}

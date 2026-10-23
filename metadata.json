@@ -1,0 +1,6 @@
+{
+  "name": "FindItAi — Campus Lost & Found",
+  "description": "AI-Powered Campus Lost and Found Progressive Web App for university students and faculty to report items, match belongings, verify ownership, and coordinate safe returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
